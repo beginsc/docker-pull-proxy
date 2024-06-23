@@ -1,1 +1,1 @@
-johngong/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/johngong/qbittorrent:latest
+johngong/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/beginsc/qbittorrent:latest
