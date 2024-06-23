@@ -1,1 +1,1 @@
-johngong/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/beginsc/qbittorrent:latest
+johngong/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/nas_beginsc_docker/test/qbittorrent:latest
